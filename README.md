@@ -17,7 +17,7 @@ These could include:
 
 If you don't have time to implement everything, that's fine. We don't expect you to spend days on the task.
 Feel free to explain what you would consider or do differently to make this a full production quality setup if you had more time in the `NOTES.md` file.
-These will make great talking points during the final interview.
+These will make great talking points during the technical interview.
 
 ## Setup
 
